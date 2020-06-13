@@ -1,2 +1,1 @@
-# LegacyEmails
-Email Content from Existing Java Emailers
+# Will contain environment and application settings
